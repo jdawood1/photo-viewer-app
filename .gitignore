@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Expo
+.expo/
+.expo-shared/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+
+# Babel cache
+.babelrc
+.babel*
+
+# Metro cache
+.cache/
+
+# Android
+android/app/build/
+*.keystore
+
+# iOS
+ios/build/
+ios/Pods/
+
+# IDEs
+.idea/
+.vscode/
